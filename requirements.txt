@@ -1,0 +1,19 @@
+# Core analysis
+pandas>=2.0
+numpy>=1.24
+scipy>=1.11
+statsmodels>=0.14
+
+# Data acquisition
+requests>=2.31
+
+# NLP
+vaderSentiment>=3.3.2
+
+# Exhibits and notebook
+matplotlib>=3.7
+tabulate>=0.9
+jupyter
+
+# Tests
+pytest>=7.4
